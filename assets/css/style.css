@@ -297,7 +297,7 @@ footer{
     border-left: 1px solid;
 }
 
-.timeline-item {
+.timeline-item P {
     padding: 0;
     margin: 0;
 }
@@ -325,4 +325,8 @@ footer{
     border-radius: 12px;
     content: '';
     background: #fafafa;
+}
+
+.history-items{
+    margin-bottom: 30px;
 }
